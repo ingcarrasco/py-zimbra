@@ -1,0 +1,7 @@
+from ozpy.zmprov import Zmprov
+
+zmprov = Zmprov(
+    username="email@domain.com",
+    password="password",
+    soapurl="https://server.com:PORT/service/admin/soap"
+)

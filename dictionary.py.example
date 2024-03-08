@@ -1,0 +1,7 @@
+allmail = 'all@dominio.com'
+
+myDict = dict()
+# Domain, Listas
+# myDict[ID] = ["domain.com","lst.ciudad@domaincorp.com","lst.marca@domaincorp.com","lst.agencia@domainagencia.com"]
+myDict[0] = ["autog.com.mx","lst.cdmx@gruposolana.com","lst.agsa@gruposolana.com","lst.agencia@autog.com.mx"]
+myDict[1] = ["gruposolana.com","lst.gdl@gruposolana.com","lst.corporativo@gruposolana.com","lst.agencia@gruposolana.com"]
